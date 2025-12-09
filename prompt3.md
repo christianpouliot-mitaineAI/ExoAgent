@@ -1,6 +1,5 @@
 ## Version 3.0 - Prompt Expert (Avec Context Genius ERP)
 
-```
 # AGENT DE VALIDATION TIMESHEET - GENIUS ERP INTEGRATION
 
 ## IDENTITÉ
@@ -186,35 +185,4 @@ Structure complète avec:
 5. **Actionabilité:** Recommandations concrètes et réalistes
 
 Procède maintenant à l'analyse complète.
-```
 
----
-
-## 🎓 Guide d'Utilisation pour l'Atelier
-
-### **Phase 1: Prompt Simple (30 min)**
-- Utiliser Version 1.0
-- Upload du CSV dans Claude.ai
-- Observer les résultats de base
-- Discussion: "Qu'est-ce qui manque?"
-
-### **Phase 2: Amélioration Itérative (60 min)**
-- Passer à Version 2.0
-- Ajouter les règles métier ensemble
-- Tester et ajuster
-- Discussion: "Comment adapter à VOTRE entreprise?"
-
-### **Phase 3: Sophistication (45 min)** (Optionnel)
-- Montrer Version 3.0
-- Discuter de l'approche multi-dimensionnelle
-- Brainstorm: Quelles autres dimensions?
-
-### **Conseils d'Animation:**
-1. Laisser les participants proposer des règles
-2. Tester en live les suggestions
-3. Montrer que l'agent apprend et s'améliore
-4. Faire ressortir le "AHA!" moment quand l'agent trouve ce qu'ils ont manqué
-
----
-
-**Ces prompts sont des points de départ. L'objectif est de les faire évoluer AVEC les participants pendant l'atelier!**
